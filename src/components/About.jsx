@@ -89,7 +89,7 @@ const About = () => {
 		<div className="card">
 		 <div className="card-image">
 			<div className="noisy" />
-			<img src="/images/abt3.png" alt="Hip-Hop Dance" />
+			<img src="/images/ev-4.jpg" alt="Hip-Hop Dance" />
 		 </div>
 		 <div className="card-content">
 			<h3 className="text-gradient">Hip-Hop Battle</h3>
